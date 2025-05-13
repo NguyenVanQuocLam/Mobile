@@ -1,4 +1,4 @@
-Câu 1: Mong muốn và định hướng sau khi học xong?
-Mong muốn có thể phát triển được các dự án trên nền tảng thiết bị di động. Dự định phát triển song song các dự án phần mềm máy tính và phần mềm di động để thuận tiện hơn cho người dùng.
-Câu 2: Theo bạn, trong 10 năm nữa lập trình di động có phát triển không? Giải thích tại sao?
+Câu 1: Mong muốn và định hướng sau khi học xong?  
+Mong muốn có thể phát triển được các dự án trên nền tảng thiết bị di động. Dự định phát triển song song các dự án phần mềm máy tính và phần mềm di động để thuận tiện hơn cho người dùng.  
+Câu 2: Theo bạn, trong 10 năm nữa lập trình di động có phát triển không? Giải thích tại sao?  
 Trong 10 năm nữa hoặc hơn, lập trình di động vẫn sẽ phát triển. Vì trong giai đoạn chuyến đổi số việc sử dụng các thiết bị kết nối Internet sẽ được đẩy mạnh đặc biệt là những thiết bị nhỏ gọn có thể mang theo mọi lúc mọi như điện thoại di động, do đó việc phát triển của lập trình di động sẽ mạnh mẽ hơn bao giờ hết. Thực tại cũng đã cho thấy lập trình di động cũng đã và đang phát triển mạnh mẽ, các phần mềm/website có trên máy tính hầu như đều có trên điện thoại di động, và có những phần mềm chỉ có phiên bản ở di động rất nhiều năm trong khi chưa có kế hoạch phát triển trên máy tính.
